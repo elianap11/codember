@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›®Çûÿÿÿÿ8µÇ¿ÏÅ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•İˆÉ8¶Ç¿ÏÅ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÇ‘şÿÿÿÿ8Ì•óÎÅ1
+˜
+java:S1130
+"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8Ó“²ÏÅ1
